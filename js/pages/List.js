@@ -175,7 +175,6 @@ export default {
                     <hr class="divider">
 
                     <h3>Tags</h3>
-                    <p class="director" style="cursor:pointer;" @click="search('⭐')">⭐ Rated</p>
                     <p class="director" style="cursor:pointer;" @click="search('🔥')">🔥 Hall of Fame</p>
 
                     <hr class="divider">
@@ -204,7 +203,7 @@ export default {
                     <hr class="divider">
                     <div class="right-text">
                         <p>
-                            For your convenience, The 1.0 List caches the data for the list in your browser.
+                            For your convenience, The Crime List caches the data for the list in your browser.
                         </p>
                         <p>
                             By using the site, you agree to the storage of this data in your browser. 
