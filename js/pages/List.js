@@ -176,6 +176,7 @@ export default {
 
                     <h3>Tags</h3>
                     <p class="director" style="cursor:pointer;" @click="search('🔥')">🔥 Hall of Fame</p>
+                    <p class="director" style="cursor:pointer;" @click="search('⭐')">⭐ Rated</p>
 
                     <hr class="divider">
 
