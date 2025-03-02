@@ -10,5 +10,29 @@
   "objectCount": "246",
   "gdLength": "0:08",
   "records": [
+     {
+      "user": "Aelaexaender",
+      "link": "Unavailable",
+      "percent": 100,
+      "hz": 60,
+      "enjoyment": 3,
+      "mobile": false
+    },
+    {
+      "user": "Hyugo",
+      "link": "Unavailable",
+      "percent": 100,
+      "hz": 120,
+      "enjoyment": 6,
+      "mobile": false
+    },
+    {
+      "user": "Wenz",
+      "link": "https://www.youtube.com/watch?v=ntfH-hxcUJ8",
+      "percent": 100,
+      "hz": 480,
+      "enjoyment": 0,
+      "mobile": false
+    }
  	 ]
 }
